@@ -1,4 +1,4 @@
-# filename: 06_Files_Investigate_2.py
+# filename: FilesInvestigate2.py
 """
 Activity: Investigate the Code
 
